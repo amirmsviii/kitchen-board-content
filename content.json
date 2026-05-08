@@ -2,20 +2,57 @@
   "quotes": [
     { "text": "The best way to predict the future is to invent it.", "author": "Alan Kay" },
     { "text": "Simplicity is the ultimate sophistication.", "author": "Leonardo da Vinci" },
-    { "text": "Done is better than perfect.", "author": "Sheryl Sandberg" }
+    { "text": "Any sufficiently advanced technology is indistinguishable from magic.", "author": "Arthur C. Clarke" },
+    { "text": "If I have seen further, it is by standing on the shoulders of giants.", "author": "Isaac Newton" },
+    { "text": "Anyone who has never made a mistake has never tried anything new.", "author": "Albert Einstein" },
+    { "text": "We are what we repeatedly do. Excellence, then, is not an act, but a habit.", "author": "Will Durant" },
+    { "text": "The function of good software is to make the complex appear simple.", "author": "Grady Booch" },
+    { "text": "Done is better than perfect.", "author": "Sheryl Sandberg" },
+    { "text": "An investment in knowledge pays the best interest.", "author": "Benjamin Franklin" },
+    { "text": "Talk is cheap. Show me the code.", "author": "Linus Torvalds" },
+    { "text": "Programs must be written for people to read, and only incidentally for machines to execute.", "author": "Harold Abelson" },
+    { "text": "What we know is a drop. What we don't know is an ocean.", "author": "Isaac Newton" },
+    { "text": "Logic will get you from A to Z. Imagination will get you everywhere.", "author": "Albert Einstein" },
+    { "text": "If you cannot measure it, you cannot improve it.", "author": "Lord Kelvin" },
+    { "text": "Make it work, make it right, make it fast.", "author": "Kent Beck" },
+    { "text": "Genius is one percent inspiration and ninety-nine percent perspiration.", "author": "Thomas Edison" },
+    { "text": "The cure for boredom is curiosity. There is no cure for curiosity.", "author": "Dorothy Parker" },
+    { "text": "It always seems impossible until it is done.", "author": "Nelson Mandela" }
   ],
   "facts": [
-    "Octopuses have three hearts and blue blood.",
-    "Honey never spoils. 3,000-year-old honey from Egyptian tombs is still edible.",
-    "The Pacific Ocean is wider than the Moon."
+    "Octopuses have three hearts and blue blood. Two pump blood to the gills, the third pumps it everywhere else.",
+    "Honey never spoils. Archaeologists have found 3,000-year-old honey in Egyptian tombs that's still edible.",
+    "A day on Venus is longer than a year. Venus rotates so slowly that one rotation (243 Earth days) outlasts its orbit (225 days).",
+    "Bananas are berries, but strawberries are not. Botanically, a true berry develops from a single ovary.",
+    "The Eiffel Tower can grow up to 15 cm taller in summer due to thermal expansion of its iron.",
+    "Wombats produce cube-shaped poop. They're the only animal in the world that does this.",
+    "There are more possible chess games than there are atoms in the observable universe.",
+    "Sharks are older than trees. Sharks have existed for ~400 million years; the earliest trees only ~350 million.",
+    "Cleopatra lived closer in time to the Moon landing than to the construction of the Great Pyramid of Giza.",
+    "The shortest war in history lasted 38 minutes — fought between Britain and Zanzibar in 1896.",
+    "A single cumulus cloud can weigh more than a million pounds, despite floating effortlessly above us.",
+    "Octopuses can taste with their suckers — each one has thousands of chemical receptors.",
+    "The Pacific Ocean is wider than the Moon.",
+    "Light from the Sun takes about 8 minutes and 20 seconds to reach Earth.",
+    "Bees can recognize human faces. They use the same techniques humans do — assembling features into a whole.",
+    "There is enough DNA in your body, uncoiled, to stretch from Earth to Pluto and back — 17 times.",
+    "The unicorn is Scotland's national animal.",
+    "Hot water can freeze faster than cold water under certain conditions — known as the Mpemba effect.",
+    "The oldest known living tree is a bristlecone pine in California, estimated at over 4,800 years old.",
+    "A teaspoon of neutron star material would weigh about 6 billion tons on Earth."
   ],
   "words": [
-    {
-      "word": "Petrichor",
-      "ipa": "/ˈpɛtrɪkɔːr/",
-      "pos": "noun",
-      "def": "The pleasant earthy scent produced when rain falls on dry soil.",
-      "example": "The first rain of summer brought a wave of petrichor through the open windows."
-    }
+    { "word": "Petrichor", "ipa": "/ˈpɛtrɪkɔːr/", "pos": "noun", "def": "The pleasant earthy scent produced when rain falls on dry soil.", "example": "The first rain of summer brought a wave of petrichor through the open windows." },
+    { "word": "Sonder", "pos": "noun · neologism", "def": "The realization that each random passerby is living a life as vivid and complex as your own.", "example": "Walking through the crowded station, she was struck by a sudden wave of sonder." },
+    { "word": "Defenestration", "ipa": "/diːˌfɛn.ɪˈstreɪ.ʃən/", "pos": "noun", "def": "The act of throwing someone or something out of a window.", "example": "The Defenestration of Prague in 1618 helped trigger the Thirty Years' War." },
+    { "word": "Mellifluous", "ipa": "/məˈlɪf.lu.əs/", "pos": "adjective", "def": "Sweet, smooth, or musical; pleasing to hear.", "example": "Her mellifluous voice carried easily across the auditorium." },
+    { "word": "Saudade", "ipa": "/sɐwˈðaðɨ/", "pos": "noun · Portuguese", "def": "A deep emotional state of nostalgic longing for an absent something or someone.", "example": "Old fado songs filled him with saudade for a Lisbon he had never seen." },
+    { "word": "Eudaimonia", "ipa": "/ˌjuː.daɪˈmoʊ.ni.ə/", "pos": "noun · Greek", "def": "A state of human flourishing; the highest good in Aristotelian ethics.", "example": "Aristotle argued that eudaimonia comes from a life of virtue and reason." },
+    { "word": "Sisyphean", "ipa": "/ˌsɪs.ɪˈfiː.ən/", "pos": "adjective", "def": "Endless and futile, like the labor of Sisyphus, condemned to roll a boulder uphill forever.", "example": "Cleaning a toddler's room can feel like a Sisyphean task." },
+    { "word": "Quixotic", "ipa": "/kwɪkˈsɒt.ɪk/", "pos": "adjective", "def": "Exceedingly idealistic; unrealistic and impractical, after Don Quixote.", "example": "His quixotic plan to bicycle across the Sahara surprised everyone." },
+    { "word": "Hiraeth", "ipa": "/ˈhɪərˌaɪθ/", "pos": "noun · Welsh", "def": "A homesickness for a home you cannot return to, or that never was.", "example": "A decade abroad left her with a deep hiraeth she couldn't quite name." },
+    { "word": "Apricity", "pos": "noun · archaic", "def": "The warmth of the sun in winter.", "example": "The cat curled on the windowsill, basking in the apricity of January." },
+    { "word": "Numinous", "ipa": "/ˈnjuː.mɪ.nəs/", "pos": "adjective", "def": "Having a strong religious or spiritual quality; mysterious and awe-inspiring.", "example": "Standing at the edge of the canyon at dawn felt almost numinous." },
+    { "word": "Ineffable", "ipa": "/ɪˈnɛf.ə.bəl/", "pos": "adjective", "def": "Too great or extreme to be expressed in words.", "example": "The view from the summit was ineffable — no photo could do it justice." }
   ]
 }
