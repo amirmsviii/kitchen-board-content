@@ -1,58 +1,1245 @@
 {
   "quotes": [
-    { "text": "The best way to predict the future is to invent it.", "author": "Alan Kay" },
-    { "text": "Simplicity is the ultimate sophistication.", "author": "Leonardo da Vinci" },
-    { "text": "Any sufficiently advanced technology is indistinguishable from magic.", "author": "Arthur C. Clarke" },
-    { "text": "If I have seen further, it is by standing on the shoulders of giants.", "author": "Isaac Newton" },
-    { "text": "Anyone who has never made a mistake has never tried anything new.", "author": "Albert Einstein" },
-    { "text": "We are what we repeatedly do. Excellence, then, is not an act, but a habit.", "author": "Will Durant" },
-    { "text": "The function of good software is to make the complex appear simple.", "author": "Grady Booch" },
-    { "text": "Done is better than perfect.", "author": "Sheryl Sandberg" },
-    { "text": "An investment in knowledge pays the best interest.", "author": "Benjamin Franklin" },
-    { "text": "Talk is cheap. Show me the code.", "author": "Linus Torvalds" },
-    { "text": "Programs must be written for people to read, and only incidentally for machines to execute.", "author": "Harold Abelson" },
-    { "text": "What we know is a drop. What we don't know is an ocean.", "author": "Isaac Newton" },
-    { "text": "Logic will get you from A to Z. Imagination will get you everywhere.", "author": "Albert Einstein" },
-    { "text": "If you cannot measure it, you cannot improve it.", "author": "Lord Kelvin" },
-    { "text": "Make it work, make it right, make it fast.", "author": "Kent Beck" },
-    { "text": "Genius is one percent inspiration and ninety-nine percent perspiration.", "author": "Thomas Edison" },
-    { "text": "The cure for boredom is curiosity. There is no cure for curiosity.", "author": "Dorothy Parker" },
-    { "text": "It always seems impossible until it is done.", "author": "Nelson Mandela" }
+    {
+      "text": "If past history was all there was to the game, the richest people would be librarians.",
+      "author": "Warren Buffett"
+    },
+    {
+      "text": "History, despite its wrenching pain, cannot be unlived, but if faced with courage, need not be lived again.",
+      "author": "Maya Angelou"
+    },
+    {
+      "text": "There has never yet been a man in our history who led a life of ease whose name is worth remembering.",
+      "author": "Theodore Roosevelt"
+    },
+    {
+      "text": "Why is it that we rejoice at a birth and grieve at a funeral? It is because we are not the person involved.",
+      "author": "Mark Twain"
+    },
+    {
+      "text": "Music was my refuge. I could crawl into the space between the notes and curl my back to loneliness.",
+      "author": "Maya Angelou"
+    },
+    {
+      "text": "He that composes himself is wiser than he that composes a book.",
+      "author": "Benjamin Franklin"
+    },
+    {
+      "text": "I cannot discover that anyone knows enough to say definitely what is and what is not possible.",
+      "author": "Henry Ford"
+    },
+    {
+      "text": "Imagination is more important than knowledge. Knowledge is limited. Imagination encircles the world.",
+      "author": "Albert Einstein"
+    },
+    {
+      "text": "The whole of science is nothing more than a refinement of everyday thinking.",
+      "author": "Albert Einstein"
+    },
+    {
+      "text": "The good life is one inspired by love and guided by knowledge.",
+      "author": "Bertrand Russell"
+    },
+    {
+      "text": "Design is not just what it looks like and feels like. Design is how it works.",
+      "author": "Steve Jobs"
+    },
+    {
+      "text": "The doorstep to the temple of wisdom is a knowledge of our own ignorance.",
+      "author": "Benjamin Franklin"
+    },
+    {
+      "text": "Thought is the blossom; language the bud; action the fruit behind it.",
+      "author": "Ralph Waldo Emerson"
+    },
+    {
+      "text": "Just because something doesn’t do what you planned it to do doesn’t mean it’s useless.",
+      "author": "Thomas Edison"
+    },
+    {
+      "text": "Do not anticipate trouble, or worry about what may never happen. Keep in the sunlight.",
+      "author": "Benjamin Franklin"
+    },
+    {
+      "text": "Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work.",
+      "author": "Steve Jobs"
+    },
+    {
+      "text": "People don’t care how much you know until they know how much you care.",
+      "author": "Theodore Roosevelt"
+    },
+    {
+      "text": "If you are lucky enough to find love, remember it is there and don’t throw it away.",
+      "author": "Stephen Hawking"
+    },
+    {
+      "text": "Man is affected not by events but by the view he takes of them.",
+      "author": "Seneca"
+    },
+    {
+      "text": "There is nothing like looking if you want to find something.",
+      "author": "J.R.R. Tolkien"
+    },
+    {
+      "text": "It’s much better to do good in a way that no one knows anything about it.",
+      "author": "Leo Tolstoy"
+    },
+    {
+      "text": "The positive thinker sees the invisible, feels the intangible, and achieves the impossible.",
+      "author": "Winston Churchill"
+    },
+    {
+      "text": "Never do things others can do and will do if there are things others cannot do or will not do.",
+      "author": "Amelia Earhart"
+    },
+    {
+      "text": "When everything seems to be going against you, remember that the airplane takes off against the wind, not with it.",
+      "author": "Henry Ford"
+    },
+    {
+      "text": "Genius is one percent inspiration and ninety-nine percent perspiration.",
+      "author": "Thomas Edison"
+    },
+    {
+      "text": "All the great things are simple, and many can be expressed in a single word: freedom, justice, honor, duty, mercy, hope.",
+      "author": "Winston Churchill"
+    },
+    {
+      "text": "The superior man acts before he speaks, and afterwards speaks according to his action.",
+      "author": "Confucius"
+    },
+    {
+      "text": "Success is a lousy teacher. It seduces smart people into thinking they can’t lose.",
+      "author": "Bill Gates"
+    },
+    {
+      "text": "The ache for home lives in all of us, the safe place where we can go as we are and not be questioned.",
+      "author": "Maya Angelou"
+    },
+    {
+      "text": "After climbing a great hill, one only finds that there are many more hills to climb.",
+      "author": "Nelson Mandela"
+    },
+    {
+      "text": "It’s fine to celebrate success but it is more important to heed the lessons of failure.",
+      "author": "Bill Gates"
+    },
+    {
+      "text": "I do not think much of a man who is not wiser today than he was yesterday.",
+      "author": "Abraham Lincoln"
+    },
+    {
+      "text": "All my life through, the new sights of nature made me rejoice like a child.",
+      "author": "Marie Curie"
+    },
+    {
+      "text": "Imagination will often carry us to worlds that never were. But without it we go nowhere.",
+      "author": "Carl Sagan"
+    },
+    {
+      "text": "Your most unhappy customers are your greatest source of learning.",
+      "author": "Bill Gates"
+    },
+    {
+      "text": "People ask the difference between a leader and a boss. The leader leads, and the boss drives.",
+      "author": "Theodore Roosevelt"
+    },
+    {
+      "text": "Success depends upon previous preparation, and without such preparation there is sure to be failure.",
+      "author": "Confucius"
+    },
+    {
+      "text": "Where the spirit does not work with the hand, there is no art.",
+      "author": "Leonardo Da Vinci"
+    },
+    {
+      "text": "Failure is simply the opportunity to begin again, this time more intelligently.",
+      "author": "Henry Ford"
+    },
+    {
+      "text": "Virtue is not left to stand alone. He who practices it will have neighbors.",
+      "author": "Confucius"
+    },
+    {
+      "text": "We must believe that we are gifted for something, and that this thing, at whatever cost, must be attained.",
+      "author": "Marie Curie"
+    },
+    {
+      "text": "Chains of habit are too light to be felt until they are too heavy to be broken.",
+      "author": "Warren Buffett"
+    },
+    {
+      "text": "In all things of nature there is something of the marvelous.",
+      "author": "Aristotle"
+    },
+    {
+      "text": "Even when laws have been written down, they ought not always to remain unaltered.",
+      "author": "Aristotle"
+    },
+    {
+      "text": "Be a yardstick of quality. Some people aren’t used to an environment where excellence is expected.",
+      "author": "Steve Jobs"
+    },
+    {
+      "text": "Never, never and never again shall it be that this beautiful land will again experience the oppression of one by another.",
+      "author": "Nelson Mandela"
+    },
+    {
+      "text": "Fear is the main source of superstition, and one of the main sources of cruelty. To conquer fear is the beginning of wisdom.",
+      "author": "Bertrand Russell"
+    },
+    {
+      "text": "What is wanted is not the will to believe, but the will to find out, which is the exact opposite.",
+      "author": "Bertrand Russell"
+    },
+    {
+      "text": "Nothing in life is to be feared, it is only to be understood. Now is the time to understand more, so that we may fear less.",
+      "author": "Marie Curie"
+    },
+    {
+      "text": "The entrepreneur always searches for change, responds to it, and exploits it as an opportunity.",
+      "author": "Peter Drucker"
+    },
+    {
+      "text": "Efficiency is doing things right; effectiveness is doing the right things.",
+      "author": "Peter Drucker"
+    },
+    {
+      "text": "If the stars should appear but one night every thousand years how man would marvel and adore.",
+      "author": "Ralph Waldo Emerson"
+    },
+    {
+      "text": "We are stuck with technology when what we really want is just stuff that works.",
+      "author": "Douglas Adams"
+    },
+    {
+      "text": "Nature gave us one tongue and two ears so we could hear twice as much as we speak.",
+      "author": "Epictetus"
+    },
+    {
+      "text": "Business, you know, may bring you money, but friendship hardly ever does.",
+      "author": "Jane Austen"
+    },
+    {
+      "text": "It all depends on how we look at things, and not how they are in themselves.",
+      "author": "Carl Jung"
+    },
+    {
+      "text": "Never interrupt someone doing what you said couldn’t be done.",
+      "author": "Amelia Earhart"
+    },
+    {
+      "text": "Your visions will become clear only when you can look into your own heart. Who looks outside, dreams; who looks inside, awakes.",
+      "author": "Carl Jung"
+    },
+    {
+      "text": "Man should fear never beginning to live.",
+      "author": "Marcus Aurelius"
+    },
+    {
+      "text": "Great acts are made up of small deeds.",
+      "author": "Lao Tzu"
+    },
+    {
+      "text": "To every action there is always opposed an equal reaction.",
+      "author": "Isaac Newton"
+    },
+    {
+      "text": "The truth is rarely pure and never simple.",
+      "author": "Oscar Wilde"
+    },
+    {
+      "text": "It is best to begin at the beginning.",
+      "author": "Amelia Earhart"
+    },
+    {
+      "text": "Silence is a source of great strength.",
+      "author": "Lao Tzu"
+    },
+    {
+      "text": "If you can’t imagine it, you can’t have it.",
+      "author": "Toni Morrison"
+    },
+    {
+      "text": "Time heals what reason cannot.",
+      "author": "Seneca"
+    },
+    {
+      "text": "The only true wisdom is in knowing you know nothing.",
+      "author": "Socrates"
+    },
+    {
+      "text": "Not life, but good life, is to be chiefly valued.",
+      "author": "Socrates"
+    },
+    {
+      "text": "Not every difficult and dangerous thing is suitable for training, but only that which is conducive to success in achieving the object of our effort.",
+      "author": "Epictetus"
+    },
+    {
+      "text": "Human beings, who are almost unique in having the ability to learn from the experience of others, are also remarkable for their apparent disinclination to do so.",
+      "author": "Douglas Adams"
+    },
+    {
+      "text": "The two most powerful warriors are patience and time.",
+      "author": "Leo Tolstoy"
+    },
+    {
+      "text": "I prefer to be true to myself, even at the hazard of incurring the ridicule of others, rather than to be false, and to incur my own abhorrence.",
+      "author": "Frederick Douglass"
+    },
+    {
+      "text": "Be faithful in small things because it is in them that your strength lies.",
+      "author": "Mother Teresa"
+    },
+    {
+      "text": "Opportunity is missed by most people because it is dressed in overalls and looks like work.",
+      "author": "Thomas A. Edison"
+    },
+    {
+      "text": "Friendship with oneself is all important because without it one cannot be friends with anybody else in the world.",
+      "author": "Eleanor Roosevelt"
+    },
+    {
+      "text": "It is better to light a single candle than to curse the darkness.",
+      "author": "Eleanor Roosevelt"
+    },
+    {
+      "text": "Focus is a matter of deciding what things you’re not going to do.",
+      "author": "John Carmack"
+    },
+    {
+      "text": "Knowing is not enough, we must apply. Willing is not enough, we must do.",
+      "author": "Johann Wolfgang von Goethe"
+    },
+    {
+      "text": "The best way to predict the future is to invent it.",
+      "author": "Alan Kay"
+    },
+    {
+      "text": "Programs must be written for people to read, and only incidentally for machines to execute.",
+      "author": "Harold Abelson"
+    },
+    {
+      "text": "Premature optimization is the root of all evil.",
+      "author": "Donald Knuth"
+    },
+    {
+      "text": "The question of whether a computer can think is no more interesting than the question of whether a submarine can swim.",
+      "author": "Edsger Dijkstra"
+    },
+    {
+      "text": "The most damaging phrase in the language is, “We’ve always done it this way.”",
+      "author": "Grace Hopper"
+    },
+    {
+      "text": "It’s easier to ask forgiveness than it is to get permission.",
+      "author": "Grace Hopper"
+    },
+    {
+      "text": "Talk is cheap. Show me the code.",
+      "author": "Linus Torvalds"
+    },
+    {
+      "text": "Any sufficiently advanced technology is indistinguishable from magic.",
+      "author": "Arthur C. Clarke"
+    },
+    {
+      "text": "The most exciting phrase to hear in science, the one that heralds new discoveries, is not “Eureka!” but “That’s funny…”",
+      "author": "Isaac Asimov"
+    },
+    {
+      "text": "Sometimes it is the people no one imagines anything of who do the things that no one can imagine.",
+      "author": "Alan Turing"
+    },
+    {
+      "text": "Somewhere, something incredible is waiting to be known.",
+      "author": "Carl Sagan"
+    },
+    {
+      "text": "I would rather have questions that can’t be answered than answers that can’t be questioned.",
+      "author": "Richard Feynman"
+    },
+    {
+      "text": "The first principle is that you must not fool yourself, and you are the easiest person to fool.",
+      "author": "Richard Feynman"
+    },
+    {
+      "text": "Be less curious about people and more curious about ideas.",
+      "author": "Marie Curie"
+    },
+    {
+      "text": "Intelligence is the ability to adapt to change.",
+      "author": "Stephen Hawking"
+    },
+    {
+      "text": "If there is no struggle, there is no progress.",
+      "author": "Frederick Douglass"
+    },
+    {
+      "text": "Do the best you can until you know better. Then when you know better, do better.",
+      "author": "Maya Angelou"
+    },
+    {
+      "text": "It is good to have an end to journey toward; but it is the journey that matters, in the end.",
+      "author": "Ursula K. Le Guin"
+    },
+    {
+      "text": "Computer science is no more about computers than astronomy is about telescopes.",
+      "author": "Edsger Dijkstra"
+    },
+    {
+      "text": "Walking on water and developing software from a specification are easy if both are frozen.",
+      "author": "Edward V. Berard"
+    },
+    {
+      "text": "Make it work, make it right, make it fast.",
+      "author": "Kent Beck"
+    },
+    {
+      "text": "Simplicity is the ultimate sophistication.",
+      "author": "Leonardo da Vinci"
+    },
+    {
+      "text": "Everything should be made as simple as possible, but not simpler.",
+      "author": "Albert Einstein"
+    },
+    {
+      "text": "What we observe is not nature itself, but nature exposed to our method of questioning.",
+      "author": "Werner Heisenberg"
+    },
+    {
+      "text": "If I have seen further it is by standing on the shoulders of giants.",
+      "author": "Isaac Newton"
+    },
+    {
+      "text": "I have not failed. I’ve just found 10,000 ways that won’t work.",
+      "author": "Thomas Edison"
+    },
+    {
+      "text": "There are no facts, only interpretations — except for the fact that there are no facts.",
+      "author": "Daniel Dennett"
+    },
+    {
+      "text": "The only way to do great work is to love what you do.",
+      "author": "Steve Jobs"
+    },
+    {
+      "text": "Innovation distinguishes between a leader and a follower.",
+      "author": "Steve Jobs"
+    },
+    {
+      "text": "An expert is a person who has made all the mistakes that can be made in a very narrow field.",
+      "author": "Niels Bohr"
+    },
+    {
+      "text": "Done is better than perfect.",
+      "author": "Sheryl Sandberg"
+    },
+    {
+      "text": "If you’re offered a seat on a rocket ship, don’t ask what seat. Just get on.",
+      "author": "Sheryl Sandberg"
+    },
+    {
+      "text": "When you change the way you look at things, the things you look at change.",
+      "author": "Max Planck"
+    },
+    {
+      "text": "Equipped with his five senses, man explores the universe around him and calls the adventure Science.",
+      "author": "Edwin Hubble"
+    },
+    {
+      "text": "Science is a way of thinking much more than it is a body of knowledge.",
+      "author": "Carl Sagan"
+    },
+    {
+      "text": "We are made of star-stuff. We are a way for the cosmos to know itself.",
+      "author": "Carl Sagan"
+    },
+    {
+      "text": "The art of programming is the art of organizing complexity, of mastering multitude and avoiding its bastard chaos.",
+      "author": "Edsger Dijkstra"
+    },
+    {
+      "text": "Theory is when you know everything but nothing works. Practice is when everything works but no one knows why.",
+      "author": "Albert Einstein"
+    },
+    {
+      "text": "I am thankful for all of those who said no to me. It’s because of them I’m doing it myself.",
+      "author": "Albert Einstein"
+    },
+    {
+      "text": "All models are wrong, but some are useful.",
+      "author": "George E. P. Box"
+    },
+    {
+      "text": "If you want to go fast, go alone. If you want to go far, go together.",
+      "author": "African Proverb"
+    },
+    {
+      "text": "We are what we repeatedly do. Excellence, then, is not an act, but a habit.",
+      "author": "Will Durant"
+    },
+    {
+      "text": "I have always wished for my computer to be as easy to use as my telephone; my wish has come true because I can no longer figure out how to use my telephone.",
+      "author": "Bjarne Stroustrup"
+    },
+    {
+      "text": "There are two ways of constructing a software design: one way is to make it so simple that there are obviously no deficiencies; and the other way is to make it so complicated that there are no obvious deficiencies.",
+      "author": "C. A. R. Hoare"
+    },
+    {
+      "text": "First, solve the problem. Then, write the code.",
+      "author": "John Johnson"
+    },
+    {
+      "text": "The function of good software is to make the complex appear to be simple.",
+      "author": "Grady Booch"
+    },
+    {
+      "text": "When something is important enough, you do it even if the odds are not in your favor.",
+      "author": "Anonymous"
+    },
+    {
+      "text": "Knowledge is power. Information is liberating.",
+      "author": "Kofi Annan"
+    },
+    {
+      "text": "Read, every day, something no one else is reading. Think, every day, something no one else is thinking.",
+      "author": "Christopher Morley"
+    },
+    {
+      "text": "The cure for boredom is curiosity. There is no cure for curiosity.",
+      "author": "Dorothy Parker"
+    },
+    {
+      "text": "Whenever you find yourself on the side of the majority, it is time to pause and reflect.",
+      "author": "Mark Twain"
+    },
+    {
+      "text": "The greatest enemy of knowledge is not ignorance, it is the illusion of knowledge.",
+      "author": "Daniel J. Boorstin"
+    },
+    {
+      "text": "If you don’t know where you are going, any road will get you there.",
+      "author": "Lewis Carroll"
+    },
+    {
+      "text": "The mind is not a vessel to be filled, but a fire to be kindled.",
+      "author": "Plutarch"
+    },
+    {
+      "text": "I have no special talents. I am only passionately curious.",
+      "author": "Albert Einstein"
+    },
+    {
+      "text": "Wonder is the beginning of wisdom.",
+      "author": "Socrates"
+    },
+    {
+      "text": "There is nothing so useless as doing efficiently that which should not be done at all.",
+      "author": "Peter Drucker"
+    },
+    {
+      "text": "Quality is never an accident; it is always the result of intelligent effort.",
+      "author": "John Ruskin"
+    },
+    {
+      "text": "I am still learning.",
+      "author": "Michelangelo"
+    },
+    {
+      "text": "The harder you work for something, the greater you’ll feel when you achieve it.",
+      "author": "Anonymous"
+    },
+    {
+      "text": "Whether you think you can, or you think you can’t — you’re right.",
+      "author": "Henry Ford"
+    },
+    {
+      "text": "It does not matter how slowly you go as long as you do not stop.",
+      "author": "Confucius"
+    },
+    {
+      "text": "An investment in knowledge pays the best interest.",
+      "author": "Benjamin Franklin"
+    },
+    {
+      "text": "Tell me and I forget. Teach me and I remember. Involve me and I learn.",
+      "author": "Benjamin Franklin"
+    },
+    {
+      "text": "Well done is better than well said.",
+      "author": "Benjamin Franklin"
+    },
+    {
+      "text": "Either write something worth reading or do something worth writing.",
+      "author": "Benjamin Franklin"
+    },
+    {
+      "text": "If you would not be forgotten as soon as you are dead, either write things worth reading or do things worth the writing.",
+      "author": "Benjamin Franklin"
+    },
+    {
+      "text": "Nothing is impossible. The word itself says “I’m possible!”",
+      "author": "Audrey Hepburn"
+    },
+    {
+      "text": "The best time to plant a tree was twenty years ago. The second best time is now.",
+      "author": "Chinese Proverb"
+    },
+    {
+      "text": "Do not go where the path may lead, go instead where there is no path and leave a trail.",
+      "author": "Ralph Waldo Emerson"
+    },
+    {
+      "text": "The reasonable man adapts himself to the world; the unreasonable one persists in trying to adapt the world to himself. Therefore all progress depends on the unreasonable man.",
+      "author": "George Bernard Shaw"
+    },
+    {
+      "text": "Always do what you are afraid to do.",
+      "author": "Ralph Waldo Emerson"
+    },
+    {
+      "text": "Real knowledge is to know the extent of one’s ignorance.",
+      "author": "Confucius"
+    },
+    {
+      "text": "It is during our darkest moments that we must focus to see the light.",
+      "author": "Aristotle"
+    },
+    {
+      "text": "Try not to become a man of success. Rather become a man of value.",
+      "author": "Albert Einstein"
+    },
+    {
+      "text": "An ounce of prevention is worth a pound of cure.",
+      "author": "Benjamin Franklin"
+    },
+    {
+      "text": "By failing to prepare, you are preparing to fail.",
+      "author": "Benjamin Franklin"
+    },
+    {
+      "text": "Beware of little expenses; a small leak will sink a great ship.",
+      "author": "Benjamin Franklin"
+    },
+    {
+      "text": "If everyone is moving forward together, then success takes care of itself.",
+      "author": "Henry Ford"
+    },
+    {
+      "text": "Coming together is a beginning, staying together is progress, and working together is success.",
+      "author": "Henry Ford"
+    },
+    {
+      "text": "Imagination is the only weapon in the war against reality.",
+      "author": "Lewis Carroll"
+    },
+    {
+      "text": "Errors using inadequate data are much less than those using no data at all.",
+      "author": "Charles Babbage"
+    },
+    {
+      "text": "Discovery consists of seeing what everybody has seen and thinking what nobody has thought.",
+      "author": "Albert Szent-Györgyi"
+    },
+    {
+      "text": "The greatest mistake you can make in life is to be continually fearing you will make one.",
+      "author": "Elbert Hubbard"
+    },
+    {
+      "text": "Strive not to be a success, but rather to be of value.",
+      "author": "Albert Einstein"
+    },
+    {
+      "text": "If you can’t fly then run, if you can’t run then walk, if you can’t walk then crawl, but whatever you do you have to keep moving forward.",
+      "author": "Martin Luther King Jr."
+    },
+    {
+      "text": "It always seems impossible until it’s done.",
+      "author": "Nelson Mandela"
+    }
   ],
   "facts": [
-    "Octopuses have three hearts and blue blood. Two pump blood to the gills, the third pumps it everywhere else.",
-    "Honey never spoils. Archaeologists have found 3,000-year-old honey in Egyptian tombs that's still edible.",
-    "A day on Venus is longer than a year. Venus rotates so slowly that one rotation (243 Earth days) outlasts its orbit (225 days).",
-    "Bananas are berries, but strawberries are not. Botanically, a true berry develops from a single ovary.",
-    "The Eiffel Tower can grow up to 15 cm taller in summer due to thermal expansion of its iron.",
-    "Wombats produce cube-shaped poop. They're the only animal in the world that does this.",
-    "There are more possible chess games than there are atoms in the observable universe.",
-    "Sharks are older than trees. Sharks have existed for ~400 million years; the earliest trees only ~350 million.",
+    "There are 10 human body parts that are only 3 letters long (eye hip arm leg ear toe jaw rib lip gum).",
+    "The human brain uses the same amount of energy as a 10-watt light bulb.",
+    "Cats: A cat has 230 bones in its body. A human has 206. A cat has no collarbone, so it can fit through any opening the size of its head.",
+    "Cats: Cats are extremely sensitive to vibrations. Cats are said to detect earthquake tremors 10 or 15 minutes before humans can.",
+    "Cats: Most cats give birth to a litter of between one and nine kittens. The largest known litter ever produced was 19 kittens, of which 15 survived.",
+    "Cats: The first commercially cloned pet was a cat named \"Little Nicky.\" He cost his owner $50,000, making him one of the most expensive cats ever.",
+    "Cats: The smallest wildcat today is the Black-footed cat. The females are less than 20 inches (50 cm) long and can weigh as little as 2.5 lbs (1.2 kg).",
+    "Cats: On average, cats spend 2/3 of every day sleeping. That means a nine-year-old cat has been awake for only three years of its life.",
+    "Cats: A cat’s back is extremely flexible because it has up to 53 loosely fitting vertebrae. Humans only have 34.",
+    "Cats: Most cats had short hair until about 100 years ago, when it became fashionable to own cats and experiment with breeding.",
+    "Cats: The tiniest cat on record is Mr. Pebbles, a 2-year-old cat that weighed 3 lbs (1.3 k) and was 6.1 inches (15.5 cm) high.",
+    "Cats: The first cat show was organized in 1871 in London. Cat shows later became a worldwide craze.",
+    "Cats: The normal body temperature of a cat is between 100.5 ° and 102.5 °F. A cat is sick if its temperature goes below 100 ° or above 103 °F.",
+    "Cats: Cats control the outer ear using 32 muscles; humans use 6.",
+    "The volume of the earth’s moon is the same as the volume of the Pacific Ocean.",
+    "You’re born with 300 bones, but by the time you become an adult, you only have 206.",
+    "There is an average of 61,000 people airborne over the US at any given moment.",
+    "The microwave was invented after a researcher walked by a radar tube and a chocolate bar melted in his pocket.",
+    "The word \"set\" has more definitions than any other word in the English language.",
+    "Proportional to their size, cats have the largest eyes of all mammals.",
+    "The six official languages of the U.N. are: English, French, Arabic, Chinese, Russian and Spanish.",
+    "A cat uses its whiskers to determine if a space is too small to squeeze through.",
+    "Camels have three eyelids to protect themselves from blowing sand.",
+    "Cats have over one hundred vocal sounds; dogs only have about ten.",
+    "Hershey’s Kisses are called that because the machine that makes them looks like it’s kissing the conveyor belt.",
+    "Honey never spoils — edible honey has been recovered from ancient Egyptian tombs over 3,000 years old.",
+    "A day on Venus is longer than a year on Venus: it takes 243 Earth days to rotate but only 225 to orbit the Sun.",
+    "Octopuses have three hearts, nine brains, and blue, copper-based blood.",
+    "There are more trees on Earth than stars in the Milky Way galaxy.",
+    "Sharks predate trees: sharks have existed for around 400 million years, trees for about 350 million.",
+    "Bubble wrap was originally invented as a textured wallpaper.",
+    "Pluto takes 248 Earth years to complete one orbit of the Sun, so it has not finished a full year since its 1930 discovery.",
     "Cleopatra lived closer in time to the Moon landing than to the construction of the Great Pyramid of Giza.",
-    "The shortest war in history lasted 38 minutes — fought between Britain and Zanzibar in 1896.",
-    "A single cumulus cloud can weigh more than a million pounds, despite floating effortlessly above us.",
-    "Octopuses can taste with their suckers — each one has thousands of chemical receptors.",
+    "Antarctica is the world’s largest desert: a desert is defined by precipitation, not heat.",
+    "The dot over the lowercase letters i and j is called a tittle.",
+    "A group of flamingos is called a flamboyance.",
+    "A single strand of spaghetti is called a spaghetto.",
+    "Avocados are technically a single-seeded berry.",
+    "The unicorn is the national animal of Scotland.",
+    "Bees can recognize human faces by treating them as unusual flowers.",
+    "A bolt of lightning can reach about 30,000 K — roughly five times hotter than the surface of the Sun.",
+    "The longest English word without a vowel is “rhythms.”",
+    "Bananas are slightly radioactive due to their natural potassium-40 content.",
+    "Sound travels roughly four times faster in water than in air.",
+    "Wombats produce cube-shaped droppings.",
+    "A small cloud can weigh more than a million pounds, kept aloft by warmer air rising beneath it.",
+    "The Eiffel Tower can be up to 15 cm taller in summer due to thermal expansion of its iron.",
+    "There are more possible legal chess positions than there are atoms in the observable universe.",
+    "Octopuses can fit through any hole larger than their beak — the only hard part of their body.",
+    "Hot water can freeze faster than cold water under certain conditions; the effect is called the Mpemba effect.",
     "The Pacific Ocean is wider than the Moon.",
-    "Light from the Sun takes about 8 minutes and 20 seconds to reach Earth.",
-    "Bees can recognize human faces. They use the same techniques humans do — assembling features into a whole.",
-    "There is enough DNA in your body, uncoiled, to stretch from Earth to Pluto and back — 17 times.",
-    "The unicorn is Scotland's national animal.",
-    "Hot water can freeze faster than cold water under certain conditions — known as the Mpemba effect.",
-    "The oldest known living tree is a bristlecone pine in California, estimated at over 4,800 years old.",
-    "A teaspoon of neutron star material would weigh about 6 billion tons on Earth."
+    "A jiffy is an actual unit of time: 1/100th of a second.",
+    "The fingerprints of koalas are nearly indistinguishable from those of humans, even under a microscope.",
+    "The shortest commercial flight in the world, between Westray and Papa Westray in Scotland, lasts about 90 seconds.",
+    "The Great Pyramid of Giza was the tallest structure on Earth for nearly 3,800 years.",
+    "Saturn’s density is so low that, given a large enough body of water, it would float.",
+    "There is a giant cloud of alcohol in deep space, in the Sagittarius B2 region, big enough to make 400 trillion trillion pints of beer.",
+    "The Library of Alexandria’s scrolls were estimated at hundreds of thousands; modern Wikipedia, by contrast, exceeds that scale every few months in edits alone.",
+    "A blue whale’s heart is roughly the size of a small car and beats only a few times per minute when diving.",
+    "The Earth and Moon system is technically a binary planet by some definitions: their shared center of mass moves in a clear curve around the Sun.",
+    "Light from the Sun takes about 8 minutes 20 seconds to reach Earth.",
+    "Tomatoes were once feared in Europe as the “poison apple” because acidic juices leached lead from pewter plates.",
+    "There are exactly 88 officially recognized constellations.",
+    "Iceland has no mosquitoes; the local climate disrupts their reproductive cycle.",
+    "The total length of all the wiring in a Boeing 747 is about 240 km (150 miles).",
+    "An average human contains enough carbon to fill about 9,000 pencils.",
+    "The QWERTY keyboard layout was designed in the 1870s, partly to space out frequently paired letters and reduce typewriter jams.",
+    "Bismuth produces some of the most strikingly geometric crystals of any element, with iridescent step-pyramid shapes.",
+    "Polar bears are nearly invisible to infrared cameras because their fur traps heat so effectively.",
+    "The total weight of all the ants on Earth is roughly comparable to the total weight of all the humans on Earth.",
+    "It takes about 8 minutes 20 seconds for sunlight to reach Earth, and around 4 hours to reach Neptune.",
+    "Africa is in all four hemispheres: Northern, Southern, Eastern, and Western.",
+    "There are no muscles in your fingers; the movement of each finger is controlled by tendons connected to muscles in the palm and forearm.",
+    "Sloths can hold their breath underwater for up to 40 minutes by slowing their heart rate.",
+    "The longest river in the world by some measures is the Nile, but by others it is the Amazon — the question is still scientifically debated.",
+    "A standard pencil can draw a line approximately 56 km (35 miles) long before running out.",
+    "The Earth’s rotation is gradually slowing — over the last 100 years, the day has lengthened by about 1.7 milliseconds.",
+    "Atoms are mostly empty space: if a hydrogen atom were the size of a football stadium, the nucleus would be about the size of a pea at the center.",
+    "Bananas are botanically classified as berries, while strawberries are not.",
+    "Mount Everest grows about 4 mm taller every year due to the Indian and Eurasian plates pushing together.",
+    "The world’s oldest known living tree is a Great Basin bristlecone pine in California, estimated to be about 5,000 years old.",
+    "There are more atoms in a single glass of water than there are glasses of water in all the oceans on Earth.",
+    "Lobsters communicate by squirting urine at each other from openings just below their eyes.",
+    "Sharks have been around longer than the rings of Saturn — Saturn’s rings are estimated at 100 million years old.",
+    "The shortest scientific paper ever published has zero words — it is titled “The Unsuccessful Self-Treatment of a Case of ‘Writer’s Block’” and contains nothing but a citation.",
+    "The Mariana Trench is so deep that if Mount Everest were dropped into it, the peak would still be over 2 km below the surface.",
+    "More than half of all the world’s population lives within 200 km (125 miles) of a coastline.",
+    "Sea otters hold hands while sleeping so they don’t drift apart on the water.",
+    "The first computer programmer is widely considered to be Ada Lovelace, who in 1843 wrote what is now recognized as the first algorithm intended for a machine.",
+    "The English word “alphabet” comes from the first two letters of the Greek alphabet: alpha and beta.",
+    "Pearls dissolve in vinegar — Cleopatra reportedly settled a wager by drinking a pearl dissolved in wine vinegar.",
+    "An octopus has nine brains: a central one and a smaller one in the base of each of its eight arms.",
+    "The continents move at roughly the same speed your fingernails grow — about 2.5 cm per year.",
+    "The Moon drifts away from Earth by about 3.8 cm each year.",
+    "About 60% of the human body is water, and the brain is roughly 73% water.",
+    "There are more public libraries in the United States than there are McDonald’s restaurants.",
+    "A new word is added to the Oxford English Dictionary roughly every two hours.",
+    "If you removed all empty space from the atoms of every human alive, the entire human race would fit inside a single sugar cube.",
+    "Lightning strikes the Earth approximately 100 times every second worldwide.",
+    "The deepest mine on Earth, Mponeng in South Africa, descends about 4 km below the surface — deeper than many ocean trenches in shallow seas.",
+    "The smallest bone in the human body is the stapes in the middle ear, about 3 mm long.",
+    "The largest known star, UY Scuti, is so big that if it replaced the Sun, its surface would extend past the orbit of Jupiter.",
+    "Common house dust is partly made of dead human skin cells; an average adult sheds about 500 million skin cells daily.",
+    "Carrots were originally purple — the orange variety we know today was developed in the Netherlands in the 17th century.",
+    "Coffee beans are not beans, botanically — they are the seeds of a fruit called the coffee cherry.",
+    "The total length of the blood vessels in an adult human body, laid end to end, would circle the equator more than twice.",
+    "The world’s quietest room is at Microsoft’s headquarters in Redmond and measures –20.35 dBA — quieter than the limit of human hearing.",
+    "There are more theoretical chess games than there are atoms in the observable universe — Shannon’s number is about 10^120.",
+    "More than 1,000 species of fish, including some sharks, can change sex during their lifetime.",
+    "The longest word in major English dictionaries is the chemical name “pneumonoultramicroscopicsilicovolcanoconiosis,” at 45 letters.",
+    "If you could fold a piece of standard paper 42 times, it would reach the Moon.",
+    "An adult human is made up of about 30 trillion cells, plus a roughly equal number of microbial cells.",
+    "There are more stars in the observable universe than there are grains of sand on every beach on Earth — by a wide margin.",
+    "The aglet is the small plastic or metal sheath at the end of a shoelace.",
+    "The vibrating black-and-yellow flight stripes used on some military runways were inspired by patterns observed on bees.",
+    "The dot above the lowercase letter “j” is also called a tittle.",
+    "The deepest part of the ocean ever recorded — Challenger Deep — is so far below sea level that the pressure is over a thousand times what we feel at the surface.",
+    "Cashews grow on the bottom of a fruit called a cashew apple, with the nut hanging like a single comma beneath each fruit.",
+    "Caffeine is the most widely used psychoactive substance in the world.",
+    "There’s a species of jellyfish (Turritopsis dohrnii) that can revert to its juvenile form, making it biologically immortal in principle.",
+    "The shortest reign in history was that of Louis-Antoine of France, who was technically king for about 20 minutes in 1830 between his father’s abdication and his own.",
+    "The strongest material currently known is graphene, a single layer of carbon atoms — about 200 times stronger by weight than steel.",
+    "About 100 billion neurons make up the human brain — roughly the same number as stars in the Milky Way galaxy.",
+    "The first email was sent in 1971 by Ray Tomlinson; he chose the @ symbol to separate user from machine because it was rarely used in text.",
+    "Mosquitoes are attracted to people who have recently exercised, partly because of the lactic acid in their sweat.",
+    "Fingernails grow about four times faster than toenails.",
+    "An ostrich’s eye is bigger than its brain.",
+    "Honeybees can recognize individual human faces and remember them for several days.",
+    "The plastic tip of a shoelace is called an aglet — and the tradition of using a hard tip dates back at least to Roman times.",
+    "Vanilla flavor is one of the most labor-intensive crops to harvest: each flower must be hand-pollinated within hours of opening.",
+    "An average bolt of lightning carries about a billion volts.",
+    "Wood frogs in North America can survive being frozen solid in winter; their hearts stop, then resume in spring.",
+    "Stainless steel was developed in 1913 in Sheffield, England, when Harry Brearley was looking for a corrosion-resistant gun-barrel alloy.",
+    "Ravens and crows can solve multi-step puzzles, recognize themselves in mirrors, and remember human faces for years.",
+    "The smell of fresh-cut grass is actually a chemical distress signal released by the grass.",
+    "Wi-Fi was developed from radio-astronomy techniques originally designed to detect black holes.",
+    "Grand Central Terminal in New York City has more platforms than any other train station in the world: 44 platforms and 67 tracks.",
+    "There are roughly four times as many bacterial cells in your body as there are human cells.",
+    "If you placed Saturn in a giant bathtub, it would float — its average density is less than that of water.",
+    "Greenland sharks may live for over 400 years, making them among the longest-living vertebrates known.",
+    "The Hubble Space Telescope orbits at about 540 km up, completing one orbit of Earth every 95 minutes.",
+    "The world’s first national park, Yellowstone, was established by the United States in 1872, before Wyoming was even a state.",
+    "Pythagoras of Samos, the mathematician, also led a religious-like community whose followers were forbidden to eat beans.",
+    "There’s no scientific consensus on why we yawn — leading hypotheses involve brain temperature regulation and social signaling.",
+    "Most modern violins still use the basic shape and proportions established by Italian luthiers like Stradivari in the 17th and 18th centuries."
   ],
   "words": [
-    { "word": "Petrichor", "ipa": "/ˈpɛtrɪkɔːr/", "pos": "noun", "def": "The pleasant earthy scent produced when rain falls on dry soil.", "example": "The first rain of summer brought a wave of petrichor through the open windows." },
-    { "word": "Sonder", "pos": "noun · neologism", "def": "The realization that each random passerby is living a life as vivid and complex as your own.", "example": "Walking through the crowded station, she was struck by a sudden wave of sonder." },
-    { "word": "Defenestration", "ipa": "/diːˌfɛn.ɪˈstreɪ.ʃən/", "pos": "noun", "def": "The act of throwing someone or something out of a window.", "example": "The Defenestration of Prague in 1618 helped trigger the Thirty Years' War." },
-    { "word": "Mellifluous", "ipa": "/məˈlɪf.lu.əs/", "pos": "adjective", "def": "Sweet, smooth, or musical; pleasing to hear.", "example": "Her mellifluous voice carried easily across the auditorium." },
-    { "word": "Saudade", "ipa": "/sɐwˈðaðɨ/", "pos": "noun · Portuguese", "def": "A deep emotional state of nostalgic longing for an absent something or someone.", "example": "Old fado songs filled him with saudade for a Lisbon he had never seen." },
-    { "word": "Eudaimonia", "ipa": "/ˌjuː.daɪˈmoʊ.ni.ə/", "pos": "noun · Greek", "def": "A state of human flourishing; the highest good in Aristotelian ethics.", "example": "Aristotle argued that eudaimonia comes from a life of virtue and reason." },
-    { "word": "Sisyphean", "ipa": "/ˌsɪs.ɪˈfiː.ən/", "pos": "adjective", "def": "Endless and futile, like the labor of Sisyphus, condemned to roll a boulder uphill forever.", "example": "Cleaning a toddler's room can feel like a Sisyphean task." },
-    { "word": "Quixotic", "ipa": "/kwɪkˈsɒt.ɪk/", "pos": "adjective", "def": "Exceedingly idealistic; unrealistic and impractical, after Don Quixote.", "example": "His quixotic plan to bicycle across the Sahara surprised everyone." },
-    { "word": "Hiraeth", "ipa": "/ˈhɪərˌaɪθ/", "pos": "noun · Welsh", "def": "A homesickness for a home you cannot return to, or that never was.", "example": "A decade abroad left her with a deep hiraeth she couldn't quite name." },
-    { "word": "Apricity", "pos": "noun · archaic", "def": "The warmth of the sun in winter.", "example": "The cat curled on the windowsill, basking in the apricity of January." },
-    { "word": "Numinous", "ipa": "/ˈnjuː.mɪ.nəs/", "pos": "adjective", "def": "Having a strong religious or spiritual quality; mysterious and awe-inspiring.", "example": "Standing at the edge of the canyon at dawn felt almost numinous." },
-    { "word": "Ineffable", "ipa": "/ɪˈnɛf.ə.bəl/", "pos": "adjective", "def": "Too great or extreme to be expressed in words.", "example": "The view from the summit was ineffable — no photo could do it justice." }
+    {
+      "word": "Artichoke",
+      "pos": "noun",
+      "def": "A plant related to the thistle with enlarged flower heads eaten as a vegetable while immature, Cynara cardunculus var. scolymus.",
+      "ipa": "/ˈɑː.tɪˌtʃəʊk/"
+    },
+    {
+      "word": "Petrichor",
+      "ipa": "/ˈpɛtrɪkɔːr/",
+      "pos": "noun",
+      "def": "The pleasant earthy scent produced when rain falls on dry soil.",
+      "example": "The first rain of summer brought a wave of petrichor through the open windows."
+    },
+    {
+      "word": "Sonder",
+      "pos": "noun",
+      "def": "The realization that each random passerby is living a life as vivid and complex as your own.",
+      "example": "Walking through the airport, she was overwhelmed by a sudden wave of sonder."
+    },
+    {
+      "word": "Apricity",
+      "ipa": "/əˈprɪsɪti/",
+      "pos": "noun",
+      "def": "The warmth of the sun in winter.",
+      "example": "He stepped outside to enjoy a few minutes of apricity before returning to work."
+    },
+    {
+      "word": "Halcyon",
+      "ipa": "/ˈhælsiən/",
+      "pos": "adjective",
+      "def": "Denoting a period of time in the past that was idyllically happy and peaceful.",
+      "example": "She often spoke of her halcyon days as a graduate student."
+    },
+    {
+      "word": "Mellifluous",
+      "ipa": "/məˈlɪfluəs/",
+      "pos": "adjective",
+      "def": "Pleasingly smooth and musical to hear; sweet-sounding.",
+      "example": "Her mellifluous voice carried easily across the auditorium."
+    },
+    {
+      "word": "Ephemeral",
+      "ipa": "/ɪˈfɛmərəl/",
+      "pos": "adjective",
+      "def": "Lasting for a very short time.",
+      "example": "The beauty of cherry blossoms is famously ephemeral."
+    },
+    {
+      "word": "Serendipity",
+      "ipa": "/ˌsɛrənˈdɪpɪti/",
+      "pos": "noun",
+      "def": "The occurrence of pleasant or beneficial events by chance.",
+      "example": "Their meeting at the conference was pure serendipity."
+    },
+    {
+      "word": "Sangfroid",
+      "ipa": "/ˌsɒ̃ˈfrwɑː/",
+      "pos": "noun",
+      "def": "Composure or coolness, especially under strain.",
+      "example": "The pilot’s sangfroid during the emergency reassured every passenger."
+    },
+    {
+      "word": "Verisimilitude",
+      "ipa": "/ˌvɛrɪsɪˈmɪlɪtjuːd/",
+      "pos": "noun",
+      "def": "The appearance of being true or real.",
+      "example": "The novel’s details lent it remarkable verisimilitude."
+    },
+    {
+      "word": "Defenestration",
+      "ipa": "/diːˌfɛnɪˈstreɪʃən/",
+      "pos": "noun",
+      "def": "The act of throwing something or someone out of a window.",
+      "example": "The 1618 defenestration of Prague helped trigger the Thirty Years’ War."
+    },
+    {
+      "word": "Eudaimonia",
+      "ipa": "/juːdaɪˈməʊniə/",
+      "pos": "noun",
+      "def": "A state of human flourishing or well-being, central to Aristotelian ethics.",
+      "example": "For Aristotle, eudaimonia was the highest good a person could pursue."
+    },
+    {
+      "word": "Penumbra",
+      "ipa": "/pɪˈnʌmbrə/",
+      "pos": "noun",
+      "def": "The partially shaded outer region of a shadow cast by an opaque object.",
+      "example": "During the eclipse, observers in the penumbra saw only a partial dimming."
+    },
+    {
+      "word": "Susurrus",
+      "ipa": "/sʊˈsʌrəs/",
+      "pos": "noun",
+      "def": "A whispering, murmuring, or rustling sound.",
+      "example": "A soft susurrus of leaves accompanied them along the path."
+    },
+    {
+      "word": "Limerence",
+      "ipa": "/ˈlɪmərəns/",
+      "pos": "noun",
+      "def": "The state of being infatuated with another person, typically marked by intrusive thinking and craving for reciprocation.",
+      "example": "Psychologists distinguish limerence from mature love."
+    },
+    {
+      "word": "Quintessential",
+      "ipa": "/ˌkwɪntɪˈsɛnʃəl/",
+      "pos": "adjective",
+      "def": "Representing the most perfect or typical example of a quality or class.",
+      "example": "Mozart’s G-minor symphony is a quintessential example of late Classical style."
+    },
+    {
+      "word": "Effervescent",
+      "ipa": "/ˌɛfəˈvɛsənt/",
+      "pos": "adjective",
+      "def": "Bubbly, lively, and enthusiastic.",
+      "example": "Her effervescent personality lit up the meeting."
+    },
+    {
+      "word": "Gossamer",
+      "ipa": "/ˈɡɒsəmə/",
+      "pos": "noun",
+      "def": "A fine, filmy substance, like cobwebs, found floating in the air or spread among grass.",
+      "example": "Threads of gossamer drifted across the morning meadow."
+    },
+    {
+      "word": "Quotidian",
+      "ipa": "/kwəˈtɪdiən/",
+      "pos": "adjective",
+      "def": "Of or occurring every day; ordinary or everyday.",
+      "example": "The diary recorded the quotidian rhythms of village life."
+    },
+    {
+      "word": "Nadir",
+      "ipa": "/ˈneɪdɪə/",
+      "pos": "noun",
+      "def": "The lowest point in the fortunes of a person or organization.",
+      "example": "The 2008 crisis marked the nadir of the firm’s revenue."
+    },
+    {
+      "word": "Zenith",
+      "ipa": "/ˈzɛnɪθ/",
+      "pos": "noun",
+      "def": "The highest point reached by a celestial or other object; the point of culmination.",
+      "example": "The civilization reached its zenith in the third century."
+    },
+    {
+      "word": "Lacuna",
+      "ipa": "/ləˈkjuːnə/",
+      "pos": "noun",
+      "def": "An unfilled space; a gap, especially in a manuscript or argument.",
+      "example": "The historian noted a lacuna in the records covering the 1340s."
+    },
+    {
+      "word": "Palimpsest",
+      "ipa": "/ˈpælɪm(p)sɛst/",
+      "pos": "noun",
+      "def": "A manuscript or surface on which later writing has been superimposed on effaced earlier writing.",
+      "example": "The medieval text turned out to be a palimpsest concealing an older Greek work."
+    },
+    {
+      "word": "Sesquipedalian",
+      "ipa": "/ˌsɛskwɪpɪˈdeɪliən/",
+      "pos": "adjective",
+      "def": "Characterized by long words; long-winded.",
+      "example": "His sesquipedalian style made the report unnecessarily difficult to read."
+    },
+    {
+      "word": "Recalcitrant",
+      "ipa": "/rɪˈkælsɪtrənt/",
+      "pos": "adjective",
+      "def": "Having an obstinately uncooperative attitude.",
+      "example": "The recalcitrant printer refused to acknowledge the new driver."
+    },
+    {
+      "word": "Ineffable",
+      "ipa": "/ɪnˈɛfəbəl/",
+      "pos": "adjective",
+      "def": "Too great or extreme to be expressed in words.",
+      "example": "She felt an ineffable sadness as she watched the train pull away."
+    },
+    {
+      "word": "Solipsism",
+      "ipa": "/ˈsɒlɪpsɪzəm/",
+      "pos": "noun",
+      "def": "The view that the self is all that can be known to exist.",
+      "example": "The argument quickly slid into philosophical solipsism."
+    },
+    {
+      "word": "Epistemic",
+      "ipa": "/ˌɛpɪˈstiːmɪk/",
+      "pos": "adjective",
+      "def": "Relating to knowledge or to the degree of its validation.",
+      "example": "There is an epistemic difference between believing and knowing."
+    },
+    {
+      "word": "Heuristic",
+      "ipa": "/hjʊˈrɪstɪk/",
+      "pos": "adjective",
+      "def": "Enabling someone to discover or learn something for themselves; using a practical, often imperfect method.",
+      "example": "The team adopted a heuristic approach to triage incoming bug reports."
+    },
+    {
+      "word": "Polyglot",
+      "ipa": "/ˈpɒliɡlɒt/",
+      "pos": "adjective",
+      "def": "Knowing or using several languages.",
+      "example": "Working in international finance, she became thoroughly polyglot."
+    },
+    {
+      "word": "Esoteric",
+      "ipa": "/ˌiːsəˈtɛrɪk/",
+      "pos": "adjective",
+      "def": "Intended for or likely to be understood by only a small number of people with specialized knowledge.",
+      "example": "The esoteric details of the regulation tripped up newer staff."
+    },
+    {
+      "word": "Liminal",
+      "ipa": "/ˈlɪmɪnəl/",
+      "pos": "adjective",
+      "def": "Occupying a position at, or on both sides of, a boundary or threshold.",
+      "example": "Airports are liminal spaces — neither here nor there."
+    },
+    {
+      "word": "Equanimity",
+      "ipa": "/ˌɛkwəˈnɪmɪti/",
+      "pos": "noun",
+      "def": "Mental calmness and composure, especially in a difficult situation.",
+      "example": "She handled the criticism with surprising equanimity."
+    },
+    {
+      "word": "Perfunctory",
+      "ipa": "/pəˈfʌŋktəri/",
+      "pos": "adjective",
+      "def": "Carried out with a minimum of effort or reflection.",
+      "example": "He gave the report a perfunctory glance before signing it."
+    },
+    {
+      "word": "Cogent",
+      "ipa": "/ˈkəʊdʒənt/",
+      "pos": "adjective",
+      "def": "Clear, logical, and convincing.",
+      "example": "She made a cogent argument for restructuring the team."
+    },
+    {
+      "word": "Ostensible",
+      "ipa": "/ɒˈstɛnsɪbəl/",
+      "pos": "adjective",
+      "def": "Stated or appearing to be true, but not necessarily so.",
+      "example": "The ostensible reason for the meeting was logistics, but everyone sensed something else was up."
+    },
+    {
+      "word": "Sycophant",
+      "ipa": "/ˈsɪkəfənt/",
+      "pos": "noun",
+      "def": "A person who acts obsequiously toward someone important in order to gain advantage.",
+      "example": "The CEO surrounded himself with sycophants and paid the price."
+    },
+    {
+      "word": "Anodyne",
+      "ipa": "/ˈænəˌdaɪn/",
+      "pos": "adjective",
+      "def": "Not likely to provoke dissent or offense; bland.",
+      "example": "The press release was deliberately anodyne."
+    },
+    {
+      "word": "Munificent",
+      "ipa": "/mjuːˈnɪfɪsənt/",
+      "pos": "adjective",
+      "def": "Larger or more generous than is usual or necessary.",
+      "example": "The university received a munificent gift from an anonymous alumna."
+    },
+    {
+      "word": "Inveterate",
+      "ipa": "/ɪnˈvɛtərət/",
+      "pos": "adjective",
+      "def": "Having a particular habit, activity, or interest that is long-established and unlikely to change.",
+      "example": "He was an inveterate reader who finished a book a week."
+    },
+    {
+      "word": "Salient",
+      "ipa": "/ˈseɪliənt/",
+      "pos": "adjective",
+      "def": "Most noticeable or important.",
+      "example": "Let me summarize the salient points of the proposal."
+    },
+    {
+      "word": "Ubiquitous",
+      "ipa": "/juːˈbɪkwɪtəs/",
+      "pos": "adjective",
+      "def": "Present, appearing, or found everywhere.",
+      "example": "Smartphones have become ubiquitous in modern life."
+    },
+    {
+      "word": "Pernicious",
+      "ipa": "/pəˈnɪʃəs/",
+      "pos": "adjective",
+      "def": "Having a harmful effect, especially in a gradual or subtle way.",
+      "example": "The pernicious influence of misinformation can be hard to undo."
+    },
+    {
+      "word": "Cathartic",
+      "ipa": "/kəˈθɑːtɪk/",
+      "pos": "adjective",
+      "def": "Providing psychological relief through the open expression of strong emotions.",
+      "example": "Writing the letter, even unsent, was deeply cathartic."
+    },
+    {
+      "word": "Eloquent",
+      "ipa": "/ˈɛləkwənt/",
+      "pos": "adjective",
+      "def": "Fluent or persuasive in speaking or writing.",
+      "example": "Her eloquent speech moved the audience to applause."
+    },
+    {
+      "word": "Pragmatic",
+      "ipa": "/præɡˈmætɪk/",
+      "pos": "adjective",
+      "def": "Dealing with things sensibly and realistically, in a practical way.",
+      "example": "His pragmatic approach kept the project on schedule."
+    },
+    {
+      "word": "Lugubrious",
+      "ipa": "/luːˈɡuːbrɪəs/",
+      "pos": "adjective",
+      "def": "Looking or sounding sad and dismal.",
+      "example": "The basset hound watched her leave with lugubrious eyes."
+    },
+    {
+      "word": "Ebullient",
+      "ipa": "/ɪˈbʌliənt/",
+      "pos": "adjective",
+      "def": "Cheerful and full of energy.",
+      "example": "The team was ebullient after the surprise victory."
+    },
+    {
+      "word": "Pusillanimous",
+      "ipa": "/ˌpjuːsɪˈlænɪməs/",
+      "pos": "adjective",
+      "def": "Showing a lack of courage or determination; timid.",
+      "example": "His pusillanimous refusal to speak up cost the team dearly."
+    },
+    {
+      "word": "Perspicacious",
+      "ipa": "/ˌpɜːspɪˈkeɪʃəs/",
+      "pos": "adjective",
+      "def": "Having a ready insight into and understanding of things.",
+      "example": "The perspicacious editor caught problems no one else had noticed."
+    },
+    {
+      "word": "Soporific",
+      "ipa": "/ˌsɒpəˈrɪfɪk/",
+      "pos": "adjective",
+      "def": "Tending to induce drowsiness or sleep.",
+      "example": "The lecturer’s monotone delivery had a soporific effect."
+    },
+    {
+      "word": "Truculent",
+      "ipa": "/ˈtrʌkjʊlənt/",
+      "pos": "adjective",
+      "def": "Eager or quick to argue or fight; aggressively defiant.",
+      "example": "The negotiations stalled when one side turned truculent."
+    },
+    {
+      "word": "Mercurial",
+      "ipa": "/mɜːˈkjʊərɪəl/",
+      "pos": "adjective",
+      "def": "Subject to sudden or unpredictable changes of mood or mind.",
+      "example": "His mercurial temperament made him hard to manage."
+    },
+    {
+      "word": "Sanguine",
+      "ipa": "/ˈsæŋɡwɪn/",
+      "pos": "adjective",
+      "def": "Optimistic or positive, especially in an apparently bad situation.",
+      "example": "Despite the setback, she remained sanguine about the project’s prospects."
+    },
+    {
+      "word": "Nebulous",
+      "ipa": "/ˈnɛbjʊləs/",
+      "pos": "adjective",
+      "def": "Unclear, vague, or ill-defined.",
+      "example": "The proposal was rejected for being too nebulous."
+    },
+    {
+      "word": "Ineluctable",
+      "ipa": "/ˌɪnɪˈlʌktəbəl/",
+      "pos": "adjective",
+      "def": "Unable to be resisted or avoided; inescapable.",
+      "example": "The ineluctable conclusion is that we need to start over."
+    },
+    {
+      "word": "Ascertain",
+      "ipa": "/ˌæsəˈteɪn/",
+      "pos": "verb",
+      "def": "To find out for certain; to make sure of.",
+      "example": "Investigators are working to ascertain the cause of the outage."
+    },
+    {
+      "word": "Mitigate",
+      "ipa": "/ˈmɪtɪɡeɪt/",
+      "pos": "verb",
+      "def": "To make less severe, serious, or painful.",
+      "example": "Sandbags helped mitigate the worst of the flooding."
+    },
+    {
+      "word": "Promulgate",
+      "ipa": "/ˈprɒməlɡeɪt/",
+      "pos": "verb",
+      "def": "To promote or make widely known (an idea or cause); to put a law into effect.",
+      "example": "The new policy was promulgated to all branch offices."
+    },
+    {
+      "word": "Obfuscate",
+      "ipa": "/ˈɒbfʌskeɪt/",
+      "pos": "verb",
+      "def": "To deliberately make something unclear or harder to understand.",
+      "example": "The contract’s wording seemed designed to obfuscate the fees."
+    },
+    {
+      "word": "Capitulate",
+      "ipa": "/kəˈpɪtjʊleɪt/",
+      "pos": "verb",
+      "def": "To cease resisting an opponent or an unwelcome demand; to surrender.",
+      "example": "After hours of arguing, she finally capitulated."
+    },
+    {
+      "word": "Vicissitude",
+      "ipa": "/vɪˈsɪsɪtjuːd/",
+      "pos": "noun",
+      "def": "A change of circumstances or fortune, typically one that is unwelcome.",
+      "example": "She faced the vicissitudes of life with steady humor."
+    }
   ]
 }
