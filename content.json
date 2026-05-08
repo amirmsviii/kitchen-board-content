@@ -1,0 +1,21 @@
+{
+  "quotes": [
+    { "text": "The best way to predict the future is to invent it.", "author": "Alan Kay" },
+    { "text": "Simplicity is the ultimate sophistication.", "author": "Leonardo da Vinci" },
+    { "text": "Done is better than perfect.", "author": "Sheryl Sandberg" }
+  ],
+  "facts": [
+    "Octopuses have three hearts and blue blood.",
+    "Honey never spoils. 3,000-year-old honey from Egyptian tombs is still edible.",
+    "The Pacific Ocean is wider than the Moon."
+  ],
+  "words": [
+    {
+      "word": "Petrichor",
+      "ipa": "/ˈpɛtrɪkɔːr/",
+      "pos": "noun",
+      "def": "The pleasant earthy scent produced when rain falls on dry soil.",
+      "example": "The first rain of summer brought a wave of petrichor through the open windows."
+    }
+  ]
+}
